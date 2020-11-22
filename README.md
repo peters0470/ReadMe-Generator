@@ -14,24 +14,7 @@ A node.js and JavaScript based application that prompts a user with a series of 
 
 This will 
 
-![Example1_gif]()
-
-
-This will 
-
-![Example2_gif]()
-
-
- 
-This will 
-
-![Example3_gif]()
-
-
-
-This will
-
-![Example_4]()
+![Example Video](<iframe src="https://drive.google.com/file/d/11bqbPxTNI88m-1JME8GD1CGwMY3uzqi9/preview" width="640" height="480"></iframe>)
 
 
 ## Technologies
