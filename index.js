@@ -6,7 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
 const questions = [
         {
           type: "input",
-          name: "name",
+          name: "title",
           message: "What is your project's name?",
         },
         {
