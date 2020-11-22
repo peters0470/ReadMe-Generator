@@ -12,9 +12,7 @@ A node.js and JavaScript based application that prompts a user with a series of 
 - Use generated README.md file for your projects
 
 
-This will 
-
-![Example_Video]("https://drive.google.com/file/d/11bqbPxTNI88m-1JME8GD1CGwMY3uzqi9/preview" )
+Link to Video https://drive.google.com/file/d/11bqbPxTNI88m-1JME8GD1CGwMY3uzqi9/preview
 
 
 ## Technologies
