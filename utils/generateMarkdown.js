@@ -2,13 +2,13 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   ## Table of Contents: 
-  - [Name](#name)
   - [License](#license)
   - [Description](#description)
-  - [Installation Instructions](#installationInstructions)
+  - [Images](#images)
+  - [Installation Instructions](#installation-Instructions)
   - [Test](#test)
   - [GitHub](#gitHub)
-  - [Email](#email)
+  - [Email](#email-address)
   - [Contributors](#contributors)
 
   ## License:
@@ -25,16 +25,16 @@ function generateMarkdown(data) {
   ## Installation Instructions: 
   ${data.installationInstructions}
 
-  ## Test Command: 
+  ## Test: 
   To test type ${data.test} into the terminal
 
-  ## My Github Username: 
+  ## Github: 
   Check out more project on my Github at https://github.com/${data.gitHub}
 
-  ## My Email Address:
+  ## Email Address:
   If you have any question please feel free to email me at ${data.email}
 
-  ## Other Contributors:
+  ## Contributors:
   ${data.contributors}
   `;
   }

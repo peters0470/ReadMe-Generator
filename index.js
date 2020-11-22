@@ -54,7 +54,7 @@ const questions = [
           type: "input",
           name: "contributors",
           message: "Who are the contributors of this project?",
-        },
+        }
       
 
 ];
