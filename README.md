@@ -9,6 +9,7 @@ A node.js and JavaScript based application that prompts a user with a series of 
 - First start by cloning the repo into a director of your choice
 - Run `npm install` in the command line to install all required dependencies
 - Run node index.js in the command line to start the application
+- Use generated README.md file for your projects
 
 
 This will 
